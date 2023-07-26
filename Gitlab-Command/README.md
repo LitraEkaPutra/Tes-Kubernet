@@ -2,11 +2,12 @@ Git Commands
 ============
 
 ___
-``````
-Daftar perintah Git 
-*If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
-``````
 
+Daftar perintah Git 
+
+*If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
+
+--
 
 ### Getting & Creating Projects
 
